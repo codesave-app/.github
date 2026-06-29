@@ -7,7 +7,7 @@
 ---
 
 > 🚧 **Work in Progress**  
-> CodeSave is currently under active development and not yet released.
+> CodeSave is currently under active development and not yet released. Breaking changes can be expected
 
 ## Stack
 
