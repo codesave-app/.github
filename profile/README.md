@@ -11,8 +11,6 @@
 
 ## Stack
 
-> ⚠️ The stack can change as the project is still under active development.
-
 **Backend**
 - Java (Quarkus)
 - PostgreSQL
